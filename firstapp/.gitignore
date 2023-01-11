@@ -45,3 +45,8 @@ app.*.map.json
 
 *.dart linguist-detectable=true
 *.cpp linguist-detectable=true
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+*.m linguist-detectable=false
+*.cmake linguist-detectable=false
+*.txt linguist-detectable=false
