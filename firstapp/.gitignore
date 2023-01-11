@@ -1,3 +1,16 @@
+*.dart linguist-detectable=true
+*.cpp linguist-detectable=true
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+*.m linguist-detectable=false
+*.cmake linguist-detectable=false
+*.txt linguist-detectable=false
+*.html linguist-detectable=false
+*.kt linguist-detectable=false
+*.swift linguist-detectable=false
+*.cc linguist-detectable=false
+
+
 # Miscellaneous
 *.class
 *.log
@@ -42,15 +55,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-*.dart linguist-detectable=true
-*.cpp linguist-detectable=true
-*.c linguist-detectable=false
-*.h linguist-detectable=false
-*.m linguist-detectable=false
-*.cmake linguist-detectable=false
-*.txt linguist-detectable=false
-*.html linguist-detectable=false
-*.kt linguist-detectable=false
-*.swift linguist-detectable=false
-*.cc linguist-detectable=false
